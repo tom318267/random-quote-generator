@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(222, 243, 241);
+}
+
+.heading {
+  font-family: "Monofett", cursive;
+  font-size: 5rem;
+  color: rgb(51, 38, 99);
+  text-shadow: 1px 1px 2px black;
+}
+
+button.btn-primary {
+  background-color: rgb(180, 53, 197) !important;
+  border: rgb(114, 39, 124) !important;
+  font-family: "Quicksand", sans-serif;
+}
+
+.App {
+  text-align: center;
+}
